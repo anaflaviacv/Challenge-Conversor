@@ -23,7 +23,7 @@ E ao contrario:
 
 Além de um conversor de temeperatura que:
 
-  - Celsius para Fahrenheit
+  - Converte Celsius para Fahrenheit
   - Converte Fahrenheit para Celsius
 
 
