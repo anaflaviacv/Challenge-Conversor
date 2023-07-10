@@ -1,7 +1,10 @@
 # Challenge-Conversor
-Conversor de moedas e temperatura 
+Conversor de moedas e temperatura
 
-Concluido!!
+#
+
+<h4>:star:Concluido!!:star:</h4>
+
 
 # Descrição do projeto
 Criação de um conversor de moeda e temperatura utilizando a linguagem Java!
@@ -21,10 +24,19 @@ E ao contrario:
 - Converter de Peso argentino a  Reais
 - Converter de Peso Chileno a Reais
 
+#
+
 Além de um conversor de temeperatura que:
 
   - Converte Celsius para Fahrenheit
   - Converte Fahrenheit para Celsius
+
+
+
+<h4>
+  :star: Concluído :star:
+</h4>
+
 
 
 
