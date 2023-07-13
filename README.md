@@ -1,10 +1,6 @@
-# Challenge-Conversor
-Conversor de moedas e temperatura
-
-#
-
-<h4>:star:Concluido!!:star:</h4>
-
+<h1>
+  Challenge-Conversor
+</h1>
 
 # Descrição do projeto
 Criação de um conversor de moeda e temperatura utilizando a linguagem Java!
@@ -31,11 +27,24 @@ Além de um conversor de temeperatura que:
   - Converte Celsius para Fahrenheit
   - Converte Fahrenheit para Celsius
 
+<h3> :star: Projeto Concluído :star: </h3>
+
+# 🛠️ Funcionalidades 
+
+- Interface Gráfica
+- Aplicativo que possuí opções para converter moedas e temperatura que deseja
+- Opção em continuar, encerrar a aplicação
+
+# 🔍 Tecnologias Utilizadas 
+
+- Java jdk 20
+- Eclipse IDE
+- Biblioteca java.swing.JOptionPane
+
+# 💮 Desenvolvedora
 
 
-<h4>
-  :star: Concluído :star:
-</h4>
+
 
 
 
