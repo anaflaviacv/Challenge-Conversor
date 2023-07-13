@@ -36,7 +36,7 @@ Além de um conversor de temeperatura que:
 
 - Interface Gráfica
 - Aplicativo que possuí opções para converter moedas e temperatura que deseja
-- Opção em continuar, encerrar a aplicação
+- Opção em continuar e encerrar a aplicação
 
 # 🔍 Tecnologias Utilizadas 
 
