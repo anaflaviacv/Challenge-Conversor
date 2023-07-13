@@ -43,8 +43,9 @@ Além de um conversor de temeperatura que:
 
 # 💮 Desenvolvedora
 
-
-
+<div>
+  <img src="https://github.com/anaflaviacv/Challenge-Conversor/assets/129443378/5a344d4d-2f19-4aa9-a3ae-f9de55fb48a3.png" width=155 />
+</div>
 
 
 
