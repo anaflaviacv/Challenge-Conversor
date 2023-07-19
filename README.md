@@ -46,6 +46,7 @@ Além de um conversor de temeperatura que:
 
 <div>
   
+  ![ezgif.com-crop (1)](https://github.com/anaflaviacv/Challenge-Conversor/assets/129443378/ce3057de-6ee0-42b4-a6d2-c0cefa3992f3)
 
 </div>
 
@@ -54,13 +55,15 @@ Além de um conversor de temeperatura que:
 
 - Interface Gráfica
 - Aplicativo que possuí opções para converter moedas e temperatura que deseja
-- Opção em continuar e encerrar a aplicação
+- Botões em continuar e encerrar a aplicação
 
 # 🔍 Tecnologias Utilizadas 
 
 - Java jdk 20
 - Eclipse IDE
 - Biblioteca java.swing.JOptionPane
+- Biblioteca java.text.DecimalFormat
+- Biblioteca java.text.NumberFormat
 
 # 💮 Desenvolvedora
 
