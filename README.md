@@ -32,7 +32,22 @@ Além de um conversor de temeperatura que:
   - Converte Celsius para Fahrenheit
   - Converte Fahrenheit para Celsius
 
+# 👁️‍🗨️ Visual do projeto
+
+- Conversor de moedas
   
+<div>
+  
+  ![ezgif com-crop](https://github.com/anaflaviacv/Challenge-Conversor/assets/129443378/ac3dd616-3d0a-49c1-bc8a-a38b732a5373)
+
+</div>
+
+ - Conversor de temperatura
+
+<div>
+  
+</div>
+
 
 # 🛠️ Funcionalidades 
 
