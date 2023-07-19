@@ -6,6 +6,8 @@
 
 <h1> Descrição do projeto </h1>
 
+<h3> :star: Projeto Concluído :star: </h3>
+
 Criação de um conversor de moeda e temperatura utilizando a linguagem Java!
 
   O conversor de moeda deverá:
@@ -30,7 +32,7 @@ Além de um conversor de temeperatura que:
   - Converte Celsius para Fahrenheit
   - Converte Fahrenheit para Celsius
 
-  <h3> :star: Projeto Concluído :star: </h3>
+  
 
 # 🛠️ Funcionalidades 
 
